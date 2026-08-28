@@ -1,0 +1,11 @@
+{
+  "name": "Calisthenics Form Coach & Workout Tracker",
+  "description": "Create custom calisthenics routines with live AI pose tracking, real-time audio form feedback, rep counting, and video recording for synchronized playback analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
